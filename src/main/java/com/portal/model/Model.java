@@ -1,4 +1,4 @@
-package com.alexbt.mongodb;
+package com.portal.model;
 
 import org.springframework.data.annotation.Id;
 
